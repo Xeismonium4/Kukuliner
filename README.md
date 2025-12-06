@@ -26,6 +26,32 @@
 ### Mobile Development
 - [Kukuliner-Android](https://github.com/Xeismonium/Kukuliner/tree/android)
 
+## Android Details
+
+### Minimum SDK Version
+- 29
+
+### Target SDK Version
+- 34
+
+### Dependencies
+- [Gradle](https://github.com/Xeismonium/Kukuliner/blob/android/app/build.gradle.kts)
+
+
+### Installation and Setup
+1. Clone the repository:
+```bash
+git clone https://github.com/Xeismonium/Kukuliner.git
+```
+2. Open the project in Android Studio.
+3. Ensure that you have the latest version of Android Studio and the Android SDK.
+4. Sync the project with Gradle files.
+5. Add your **GOOGLE MAP API KEY** in local.properties `API_KEY=Aiza...`
+
+### Building and Running
+1. Connect your Android device or start an emulator.
+2. Build and run the project from Android Studio.
+
 ## Screenshot
 <p align="center">
   <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064304.png?raw=true" width="200">
