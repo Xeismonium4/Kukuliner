@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Xeismonium/Kukuliner" target="_blank"><img src="https://github.com/Xeismonium/Kukuliner/blob/android/app/src/main/res/drawable/logcap.png?raw=true" width="400" alt="Kukuliner Logo"></a></p>
+<p align="center"><a href="https://github.com/Xeismonium4/Kukuliner" target="_blank"><img src="https://github.com/Xeismonium4/Kukuliner/blob/android/app/src/main/res/drawable/logcap.png?raw=true" width="400" alt="Kukuliner Logo"></a></p>
 
 # Kukuliner
 <p align="justify">Kukuliner is a capstone project developed to address the challenge of accessing comprehensive and reliable information about Javanese cuisine. The platform aims to enhance the culinary tourism experience by providing detailed insights into local dishes and their locations, thus supporting local businesses and promoting Java's rich culinary heritage.</p>
@@ -18,13 +18,13 @@
 ## Repository
 
 ### Cloud Computing
-- [Kukuliner-API](https://github.com/Xeismonium/Kukuliner/tree/cloud-computing)
+- [Kukuliner-API](https://github.com/Xeismonium4/Kukuliner/tree/cloud-computing)
 
 ### Machine Learning
-- [Kukuliner-ML](https://github.com/Xeismonium/Kukuliner/tree/machine-learning)
+- [Kukuliner-ML](https://github.com/Xeismonium4/Kukuliner/tree/machine-learning)
 
 ### Mobile Development
-- [Kukuliner-Android](https://github.com/Xeismonium/Kukuliner/tree/android)
+- [Kukuliner-Android](https://github.com/Xeismonium4/Kukuliner/tree/android)
 
 ## Android Details
 
@@ -35,7 +35,7 @@
 - 34
 
 ### Dependencies
-- [Gradle](https://github.com/Xeismonium/Kukuliner/blob/android/app/build.gradle.kts)
+- [Gradle](https://github.com/Xeismonium4/Kukuliner/blob/android/app/build.gradle.kts)
 
 
 ### Installation and Setup
@@ -54,10 +54,10 @@ git clone https://github.com/Xeismonium/Kukuliner.git
 
 ## Screenshot
 <p align="center">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064304.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064327.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064352.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064431.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064550.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064620.png?raw=true" width="200">
+  <img src="https://github.com/Xeismonium4/Kukuliner/blob/main/screenshots/Screenshot_20240619_064304.png?raw=true" width="200">
+  <img src="https://github.com/Xeismonium4/Kukuliner/blob/main/screenshots/Screenshot_20240619_064327.png?raw=true" width="200">
+  <img src="https://github.com/Xeismonium4/Kukuliner/blob/main/screenshots/Screenshot_20240619_064352.png?raw=true" width="200">
+  <img src="https://github.com/Xeismonium4/Kukuliner/blob/main/screenshots/Screenshot_20240619_064431.png?raw=true" width="200">
+  <img src="https://github.com/Xeismonium4/Kukuliner/blob/main/screenshots/Screenshot_20240619_064550.png?raw=true" width="200">
+  <img src="https://github.com/Xeismonium4/Kukuliner/blob/main/screenshots/Screenshot_20240619_064620.png?raw=true" width="200">
 </p>
